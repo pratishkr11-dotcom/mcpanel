@@ -45,8 +45,3 @@
     "devDependencies": {
         "nodemon": "^3.0.1"
     }
-}
-"scripts": {
-  "start": "node app.js",
-  "create-user": "node create-user.js"
-}
